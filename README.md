@@ -84,7 +84,6 @@ The majority of customers who left the bank were not active.
 
 
 
-
 ### Recommendations
 
 - Pig E. Bank should consider re-engaging with inactive bank customers before they make a permanent decision to discontinue their services. Providing suitable discounts and rewards could be an effective approach.
