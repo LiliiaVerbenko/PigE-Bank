@@ -47,14 +47,16 @@ The average age of customers who left the bank is 45 years old, with an average 
 https://github.com/LiliiaVerbenko/PigE-Bank/blob/main/image/Bank%201.jpg
 
 **Where are the main clients of the bank located?**
+
 Although France has the highest percentage of total customers, most customers who left the bank are from Germany.
 
 <img src="https://github.com/LiliiaVerbenko/PigE-Bank/blob/main/image/Bank%203.jpg" width="400">
 
 
-**Which gender leaves the bank more frequently?**
 
+**Which gender leaves the bank more frequently?**
 The majority of customers who left the bank are females (59%).
+
 <img src="https://github.com/LiliiaVerbenko/PigE-Bank/blob/main/image/Bank%204.jpg" width="400">
 
 
@@ -72,16 +74,15 @@ The majority of customers who left the bank were not active.
 <img src="https://github.com/LiliiaVerbenko/PigE-Bank/blob/main/image/Bank%206.jpg" width="400">
 
 
+**Decision Tree**
+
+<img src="https://github.com/LiliiaVerbenko/PigE-Bank/blob/main/image/Bank%207.png" width="400">
+
 *Risk Factors of Leaving the Bank:*
 - Whether they have more than 2 products, followed by their activity.  
 - Lower credit score indicates higher leaving risk. 
 - Older customers tend to leave due to changing needs.
 - If a client is female and whether or not they reside in Germany. 
-
-**Decision Tree**
-
-<img src="https://github.com/LiliiaVerbenko/PigE-Bank/blob/main/image/Bank%207.png" width="400">
-
 
 
 ### Recommendations
