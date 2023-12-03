@@ -38,36 +38,37 @@ Identifying any leading indicators for customers likely to leave the bank and mo
 
 ### Key Insights
 
-**Who are the main clients of the bank?**
+**_Who are the main clients of the bank?_**
 
-The average age of customers who left the bank is 45 years old, with an average credit score of 637. Their average salary is $97,597, and their account balance is $90,496.
+The average age of customers who left the bank is 45 years old, with an average credit score of 637. 
+Their average salary is $97,597, and their account balance is $90,496.
 
 <img src="https://github.com/LiliiaVerbenko/PigE-Bank/blob/main/image/Bank%201.jpg" width="200">
 <img src="https://github.com/LiliiaVerbenko/PigE-Bank/blob/main/image/Bank%202.png" width="600">
 
 
-**Where are the main clients of the bank located?**
+**_Where are the main clients of the bank located?_**
 
 Although France has the highest percentage of total customers, most customers who left the bank are from Germany.
 
 <img src="https://github.com/LiliiaVerbenko/PigE-Bank/blob/main/image/Bank%203.jpg" width="400">
 
 
+**_Which gender leaves the bank more frequently?_**
 
-**Which gender leaves the bank more frequently?**
 The majority of customers who left the bank are females (59%).
 
 <img src="https://github.com/LiliiaVerbenko/PigE-Bank/blob/main/image/Bank%204.jpg" width="400">
 
+**_How many products do clients have?_**
 
-**How many products do clients have?**
-
-While most left customers had 4 products in the bank, the majority of customers had 1 product, while the majority of customers had 3 products in the bank.
+While most left customers had 4 products in the bank, the majority of customers had 1 product, 
+while the majority of customers had 3 products in the bank.
 
 <img src="https://github.com/LiliiaVerbenko/PigE-Bank/blob/main/image/Bank%205.png" width="400">
 
 
-**Were the clients who have left the bank active or inactive?**
+**_Were the clients who have left the bank active or inactive?_**
 
 The majority of customers who left the bank were not active.
 
@@ -87,7 +88,8 @@ The majority of customers who left the bank were not active.
 
 ### Recommendations
 
-- Pig E. Bank should consider re-engaging with inactive bank customers before they make a permanent decision to discontinue their services. Providing suitable discounts and rewards could be an effective approach.
+- Pig E. Bank should consider re-engaging with inactive bank customers before they make a permanent decision to discontinue their services.
+  Providing suitable discounts and rewards could be an effective approach.
 - Priority in customer service efforts should be given to the German market, which experiences the highest percentage of customer attrition for Pig E. Bank.
 - Former clients could be reconnecting with special offers from Pig E. Bank.
 - Conducting additional research is necessary to understand why female customers tend to leave the bank more frequently than their male counterparts.
