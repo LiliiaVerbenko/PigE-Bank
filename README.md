@@ -1,4 +1,4 @@
-### Pig E. Bank - Customer Churn Prediction Project ###
+# Pig E. Bank - Customer Churn Prediction Project ###
 
 *Developing a prediction model for customer churn from banking services using data mining.*
 
