@@ -45,7 +45,6 @@ The average age of customers who left the bank is 45 years old, with an average 
 <img src="https://github.com/LiliiaVerbenko/PigE-Bank/blob/main/image/Bank%201.jpg" width="200">
 <img src="https://github.com/LiliiaVerbenko/PigE-Bank/blob/main/image/Bank%202.png" width="600">
 
-https://github.com/LiliiaVerbenko/PigE-Bank/blob/main/image/Bank%201.jpg
 
 **Where are the main clients of the bank located?**
 
