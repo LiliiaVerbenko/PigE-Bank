@@ -23,9 +23,6 @@
 - **Pig E. Bank Dataset**  
   - [Dataset](https://docs.google.com/spreadsheets/d/1S4dm9ekj4maJkz8qG7AkYXP_D2Vks-x4/edit?usp=share_link&ouid=100220627403487571764&rtpof=true&sd=true)
 
-- **Project Brief**  
-  - [Project Brief](https://drive.google.com/file/d/1Tgcc-wUDWjao13cy0ZZzu5xrkGb_BSGe/view?usp=share_link)
-
 
 ### Problem
 
